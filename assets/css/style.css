@@ -27,3 +27,7 @@
    * Pro-tip: Use the [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/related?hl=en) extension to measure the size of elements.
 
    ![Recommended Dimensions](Images/Recommended-Dimensions.png) */
+
+ .Name {
+     background: blue;
+ }
